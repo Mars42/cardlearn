@@ -1,0 +1,45 @@
+expose, разоблачать
+espouse, поддерживать
+novel, новый
+anticipate, предвкушать
+succinctly, лаконично
+ponder, размышлять
+struggle, бороться
+progenitor, прародитель
+uncanny, странный
+elude, избежать
+posit, постулировать
+dichotomy, противопоставление двух объектов
+profound, сильный
+quantify, измерять
+stupendous, громадный
+abound, изобиловать
+ether, эфир
+misguide, вводить в заблуждение
+articulate, формулировать
+reconcile, мирить
+perception, восприятие
+conjure, воображать
+possess, владеть
+innate, врожденный
+subitizing, мгновенно оценивать количественно
+perceive, воспринимать
+imply, подразумевать
+reside_in, принадлежать
+flux, поток
+vortex, вихрь
+infancy, раннее_детство
+necessitate, влечь_за_собой
+overhaul, совершенствовать
+cherry-pick, снимать_сливки
+amenable, поддающийся
+prohibit, запрещать
+to_hold_sway, господствовать
+irrespective, независимый
+decipher, разгадывать
+gauge, мера
+gauge_symmetry, калибровочная_симметрия
+subtle, утонченный
+prevail, преобладать
+fuzziness, неопределенность
+interrelate, связывать
